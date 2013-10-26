@@ -33,8 +33,7 @@
     "LiveScript": "~1.2.0"
   },
   "devDependencies": {
-    "coffee-script": "~1.6.2",
-    "docpad": "6"
+    "coffee-script": "~1.6.2"
   },
   "main": "./out/livescript.plugin.js",
   "scripts": {
