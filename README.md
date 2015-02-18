@@ -1,10 +1,20 @@
 # [LiveScript](http://livescript.net/) Plugin for [DocPad](http://docpad.org)
 
-[![Build Status](https://secure.travis-ci.org/docpad/docpad-plugin-livescript.png?branch=master)](http://travis-ci.org/docpad/docpad-plugin-livescript "Check this project's build status on TravisCI")
-[![NPM version](https://badge.fury.io/js/docpad-plugin-livescript.png)](https://npmjs.org/package/docpad-plugin-livescript "View this project on NPM")
-[![Gittip donate button](http://badgr.co/gittip/docpad.png)](https://www.gittip.com/docpad/ "Donate weekly to this project using Gittip")
-[![Flattr donate button](https://raw.github.com/balupton/flattr-buttons/master/badge-89x18.gif)](http://flattr.com/thing/344188/balupton-on-Flattr "Donate monthly to this project using Flattr")
-[![PayPayl donate button](https://www.paypalobjects.com/en_AU/i/btn/btn_donate_SM.gif)](https://www.paypal.com/au/cgi-bin/webscr?cmd=_flow&SESSION=IHj3DG3oy_N9A9ZDIUnPksOi59v0i-EWDTunfmDrmU38Tuohg_xQTx0xcjq&dispatch=5885d80a13c0db1f8e263663d3faee8d14f86393d55a810282b64afed84968ec "Donate once-off to this project using Paypal")
+<!-- BADGES/ -->
+
+[![Build Status](https://img.shields.io/travis/docpad/docpad-plugin-livescript/master.svg)](http://travis-ci.org/docpad/docpad-plugin-livescript "Check this project's build status on TravisCI")
+[![NPM version](https://img.shields.io/npm/v/docpad-plugin-livescript.svg)](https://npmjs.org/package/docpad-plugin-livescript "View this project on NPM")
+[![NPM downloads](https://img.shields.io/npm/dm/docpad-plugin-livescript.svg)](https://npmjs.org/package/docpad-plugin-livescript "View this project on NPM")
+[![Dependency Status](https://img.shields.io/david/docpad/docpad-plugin-livescript.svg)](https://david-dm.org/docpad/docpad-plugin-livescript)
+[![Dev Dependency Status](https://img.shields.io/david/dev/docpad/docpad-plugin-livescript.svg)](https://david-dm.org/docpad/docpad-plugin-livescript#info=devDependencies)<br/>
+[![Gratipay donate button](https://img.shields.io/gratipay/docpad.svg)](https://www.gratipay.com/docpad/ "Donate weekly to this project using Gratipay")
+[![Flattr donate button](https://img.shields.io/badge/flattr-donate-yellow.svg)](http://flattr.com/thing/344188/balupton-on-Flattr "Donate monthly to this project using Flattr")
+[![PayPayl donate button](https://img.shields.io/badge/paypal-donate-yellow.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QB8GQPZAH84N6 "Donate once-off to this project using Paypal")
+[![BitCoin donate button](https://img.shields.io/badge/bitcoin-donate-yellow.svg)](https://coinbase.com/checkouts/9ef59f5479eec1d97d63382c9ebcb93a "Donate once-off to this project using BitCoin")
+[![Wishlist browse button](https://img.shields.io/badge/wishlist-donate-yellow.svg)](http://amzn.com/w/2F8TXKSNAFG4V "Buy an item on our wishlist for us")
+
+<!-- /BADGES -->
+
 
 Adds support for [LiveScript](http://livescript.net/) to JavaScript compilation to [DocPad](https://docpad.org)
 
@@ -22,14 +32,62 @@ docpad install livescript
 You can customise the compiler optons sent to the CoffeeScript compiler via the plugin's `compileOptions` config option
 
 
+<!-- HISTORY/ -->
+
 ## History
-[You can discover the history inside the `History.md` file](https://github.com/bevry/docpad-plugin-livescript/blob/master/History.md#files)
+[Discover the change history by heading on over to the `HISTORY.md` file.](https://github.com/docpad/docpad-plugin-livescript/blob/master/HISTORY.md#files)
+
+<!-- /HISTORY -->
 
 
-## Contributing
-[You can discover the contributing instructions inside the `Contributing.md` file](https://github.com/bevry/docpad-plugin-livescript/blob/master/Contributing.md#files)
+<!-- CONTRIBUTE/ -->
 
+## Contribute
+
+[Discover how you can contribute by heading on over to the `CONTRIBUTING.md` file.](https://github.com/docpad/docpad-plugin-livescript/blob/master/CONTRIBUTING.md#files)
+
+<!-- /CONTRIBUTE -->
+
+
+<!-- BACKERS/ -->
+
+## Backers
+
+### Maintainers
+
+These amazing people are maintaining this project:
+
+- Benjamin Lupton <b@lupton.cc> (https://github.com/balupton)
+
+### Sponsors
+
+No sponsors yet! Will you be the first?
+
+[![Gratipay donate button](https://img.shields.io/gratipay/docpad.svg)](https://www.gratipay.com/docpad/ "Donate weekly to this project using Gratipay")
+[![Flattr donate button](https://img.shields.io/badge/flattr-donate-yellow.svg)](http://flattr.com/thing/344188/balupton-on-Flattr "Donate monthly to this project using Flattr")
+[![PayPayl donate button](https://img.shields.io/badge/paypal-donate-yellow.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QB8GQPZAH84N6 "Donate once-off to this project using Paypal")
+[![BitCoin donate button](https://img.shields.io/badge/bitcoin-donate-yellow.svg)](https://coinbase.com/checkouts/9ef59f5479eec1d97d63382c9ebcb93a "Donate once-off to this project using BitCoin")
+[![Wishlist browse button](https://img.shields.io/badge/wishlist-donate-yellow.svg)](http://amzn.com/w/2F8TXKSNAFG4V "Buy an item on our wishlist for us")
+
+### Contributors
+
+These amazing people have contributed code to this project:
+
+- [Benjamin Lupton](https://github.com/balupton) <b@lupton.cc> — [view contributions](https://github.com/docpad/docpad-plugin-livescript/commits?author=balupton)
+
+[Become a contributor!](https://github.com/docpad/docpad-plugin-livescript/blob/master/CONTRIBUTING.md#files)
+
+<!-- /BACKERS -->
+
+
+<!-- LICENSE/ -->
 
 ## License
-Licensed under the incredibly [permissive](http://en.wikipedia.org/wiki/Permissive_free_software_licence) [MIT License](http://creativecommons.org/licenses/MIT/)
-<br/>Copyright &copy; 2013+ [Bevry Pty Ltd](http://bevry.me)
+
+Licensed under the incredibly [permissive](http://en.wikipedia.org/wiki/Permissive_free_software_licence) [MIT license](http://creativecommons.org/licenses/MIT/)
+
+Copyright &copy; Bevry Pty Ltd <us@bevry.me> (http://bevry.me)
+
+<!-- /LICENSE -->
+
+
