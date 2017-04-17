@@ -1,0 +1,9 @@
+{
+  "plugins": {
+    "livescript": {
+      "compileOptions": {
+        "header": false
+      }
+    }
+  }
+}

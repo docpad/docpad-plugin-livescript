@@ -1,5 +1,8 @@
 # History
 
+## v2.2.0 2017 April 18
+- Updated deps
+
 ## v2.1.0 2017 April 18
 - Updated base files
 

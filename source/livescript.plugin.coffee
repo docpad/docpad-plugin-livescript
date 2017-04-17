@@ -18,7 +18,7 @@ module.exports = (BasePlugin) ->
 			# LiveScript to JavaScript
 			if inExtension in ['ls'] and outExtension in ['js',null]
 				# Prepare
-				livescript = require('LiveScript')
+				livescript = require('livescript')
 				fileFullPath = file.get('fullPath')
 				compileOptions = {
 					filename: fileFullPath
