@@ -1,6 +1,6 @@
 {
   "name": "docpad-plugin-livescript",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "Adds support for LiveScript to JavaScript compilation to DocPad",
   "homepage": "https://github.com/docpad/docpad-plugin-livescript",
   "license": "MIT",
